@@ -1,4 +1,4 @@
-# mapa habilidades DIO
+# Mapa de Habilidades da DIO
 
 Seguindo o quê foi proposto no [Mapa de habilidades da DIO.pdf](https://github.com/airan-rocha/mapa-habilidades-dio/blob/main/Mapa%20de%20habilidades%20da%20DIO.pdf), segue o meu mapa da habilidades feito com ajuda de ferramenta de IA. Para facilitar essa tarefa, eu fiz um prompt [(PROMPT - Especialista em carreira)](https://github.com/airan-rocha/mapa-habilidades-dio/blob/main/PROMPT%20-%20Especialista%20em%20carreira) que basta copiar e colar na ferramenta de IA e responder ao questionário.
 
